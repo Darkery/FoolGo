@@ -67,5 +67,3 @@ C++编码指南
 ## 问题交流
 * email : chncwang@gmail.com
 * QQ群：823648893
-
-#Darkery
